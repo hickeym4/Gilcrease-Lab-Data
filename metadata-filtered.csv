@@ -1,0 +1,21 @@
+﻿sample-id,tube-id,sample-name,keep,feed,trt,time
+#q2:types,categorical,categorical,categorical,categorical,categorical,categorical
+S25,31,AA2 T7 765,yes,AA2 T7 765,AA2 T7 765,AA2 T7 765
+S15,Glu-MH3.400-D5,Glu-MH3.400-D5,yes,Glu,MH3.400,D5
+S77,119,MFW-H1.1-T2,yes,MFW,H1.1,T2
+S78,123,MFW-H1.1-T8,yes,MFW,H1.1,T8
+S79,124,MFW-H1.2-T8,yes,MFW,H1.2,T8
+S80,129,Glu-GH1.1-T5,yes,Glu,GH1.1,T5
+S81,120,MFW-H1.2-T2,yes,MFW,H1.2,T2
+S82,127,Glu-GH1.1-T2,yes,Glu,GH1.1,T2
+S83,130,Glu-GH1.2-T5,yes,Glu,GH1.2,T5
+S85,126,Glu-GH1.1-T0,yes,Glu,GH1.1,T0
+S86,122,MFW-H1.2-T4,yes,MFW,H1.2,T4
+S87,BLANK_R1,BLANK_R1,yes,BLANK_R1,BLANK_R1,BLANK_R1
+S90,118,MFW-H1.1-T0,yes,MFW,H1.1,T0
+S91,125,Glu-GH1.Acc-TF,yes,Glu,GH1.Acc,TF
+S92,128,Glu-GH1.2-T2,yes,Glu,GH1.2,T2
+S93,121,MFW-H1.1-T4,yes,MFW,H1.1,T4
+S15n,Glu-MH3.400-D5,Glu-MH3.400-D5,yes,Glu,MH3.400,D5
+S25n,31,AA2 T7 765,yes,AA2 T7 765,AA2 T7 765,AA2 T7 765
+NTC,NTC,NTC,yes,NTC,NTC,NTC
